@@ -36,7 +36,7 @@ Please read the following step-by-step tutorial for additional information: [Add
 * [MainWindow.xaml](./CS/GanttControlDemoApp/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/GanttControlDemoApp/MainWindow.xaml))
 * [ProjectTaskViewModel.cs](./CS/GanttControlDemoApp/ProjectTaskViewModel.cs) (VB: [ProjectTaskViewModel.vb](./VB/GanttControlDemoApp/ProjectTaskViewModel.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-ganttcontrol-getting-started&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-ganttcontrol-getting-started&~~~was_helpful=no)
 
